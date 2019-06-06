@@ -1,0 +1,9 @@
+{
+    "name": "deepak/aqmsv2-uidai",
+    "type": "project",
+    "require-dev": {
+        "#": "2"
+    },
+    "minimum-stability": "stable",
+    "require": {}
+}
